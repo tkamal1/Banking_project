@@ -1,5 +1,5 @@
 
-/* Devlope by Tridib kamal
+/* Developed by Tridib kamal
    CSE studant 2rd year
    --------:Banking application using C Language:----------
 */
